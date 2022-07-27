@@ -1,0 +1,37 @@
+#contact iframe
+{
+    width: 100%;
+}
+.x{
+    border:1px solid lightgray;
+}
+.x img{
+    width: 100%;
+}
+.x h5,.x p{
+    margin:20px;
+}
+.m{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius:10px ;
+    margin-bottom: 15px;
+}
+.m i{
+    float: right;
+}
+.m1 span{
+    color:orange;
+}
+.book{
+    margin-bottom: 20px;
+}
+iframe{
+    width: 100%;
+    
+}
+video{
+    width:100%;
+    
+    border: none;
+}
